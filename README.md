@@ -33,9 +33,9 @@ O projeto desenvolvido é uma cena com objetos de uma academia, contendo os segu
 
 - Tecla H: rotação para a direita no boneco
 
-- Seta para cima: movimento de rosca para cima (rotacionando o antebraço no eixo z com o ponto fixo e transladando o halter para cima)
+- Seta para cima: movimento de rosca para cima (rotacionando o antebraço no eixo z e transladando o halter para cima)
 
-- Seta para baixo: movimento de rosca para baixo (rotacionando o antebraço no eixo z com o ponto fixo e transladando o halter para baixo)
+- Seta para baixo: movimento de rosca para baixo (rotacionando o antebraço no eixo z e transladando o halter para baixo)
 
 - Tecla L: aumentar o biceps
 
